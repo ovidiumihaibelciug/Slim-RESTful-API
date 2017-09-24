@@ -1,7 +1,7 @@
-#RESTful API
+# RESTful API
 This is a RESTful api built with SlimPHP and Mysql(for storage).
 
-##Instalation
+## Instalation
 Import db from _sql
 
 Edit src/config/db.php parameters
@@ -10,7 +10,7 @@ Install SlimPHP and dependencies
 
        $ composer
        
-ENDPOINTS
+## ENDPOINTS
 
     $ GET    public/api/customers
     $ GET    public/api/customer/{id}
